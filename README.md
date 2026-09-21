@@ -1,4 +1,4 @@
-# 🛸 DRONEFALL
+## DRONEFALL
 
 ### A 3D aerial combat shooter prototype built in Unreal Engine 5.8
 
