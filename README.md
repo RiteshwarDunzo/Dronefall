@@ -96,6 +96,7 @@ Content/
 | **Move** | `WASD` / Left Stick |
 | **Look** | Mouse / Right Stick |
 | **Fire** | Left Mouse Button / Right Trigger |
+| **StrafeUp** | Spacebar / Right Bumper |
 
 > Built with Unreal Engine's **Enhanced Input System** — fully rebindable via `IMC_Drone` input mapping context.
 
