@@ -14,14 +14,18 @@ Options to play both in Third Person or First Person are available.
 ###  Gameplay Demo
 
 First Person
-https://github.com/user-attachments/assets/ca165d20-02a5-407b-8232-d06a5ff6e3f7
+
+https://github.com/user-attachments/assets/4058f762-c740-4c67-8ab7-dfba1efb24d3
+
+
 
 
 
 
 
 Third Person
-https://github.com/user-attachments/assets/3292c8e7-0f80-4efe-942f-109f647907d5
+
+https://github.com/user-attachments/assets/faba994d-6a25-4e47-825f-b40eff3618f7
 
 
 
