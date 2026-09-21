@@ -17,16 +17,15 @@ Options to play both in Third Person or First Person are available.
 
 ### Boss Combat
 
-<img src="./DemoVideos/DemoBoss.gif" alt="Boss Combat Gameplay" width="800">
+![Boss Combat Demo](./DemoVideos/DemoBoss.gif)
 
-### Boss Fight
+### First Person Gameplay
 
-<img src="./DemoVideos/DemoFirstPirson.gif" alt="Boss Fight Gameplay" width="800">
+![First Person Demo](./DemoVideos/DemoFirstPirson.gif)
 
 ### Third Person Gameplay
 
-<img src="./DemoVideos/DemoThirdPerson.gif" alt="Third Person Gameplay" width="800">
-
+![Third Person Demo](./DemoVideos/DemoThirdPerson.gif)
 ##  Features
 
 | Feature | Description |
