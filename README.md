@@ -13,34 +13,19 @@ Options to play both in Third Person or First Person are available.
 
 ###  Gameplay Demo
 
-Demo Video Quality Note:
+## Gameplay Demo
 
-The demo videos have been compressed and trimmed to keep each file under GitHub's file size limitations. As a result, there may be some visible loss in video quality compared to the original recordings. The gameplay footage itself is unchanged; only the video encoding and file size have been optimized for README presentation.
+### Boss Combat
 
-## First Person
+<img src="./DemoVideos/DemoBoss.gif" alt="Boss Combat Gameplay" width="800">
 
-https://github.com/user-attachments/assets/c6793d97-ecef-4f93-8276-b2b147c31797
+### Boss Fight
 
+<img src="./DemoVideos/DemoBoss.gif" alt="Boss Fight Gameplay" width="800">
 
+### Third Person Gameplay
 
-
-
-
-
-## Third Person
-
-
-https://github.com/user-attachments/assets/bc4d7a13-4685-401f-b04b-b3b71712ebb3
-
----
-
-###  Combat & Boss Fight
-
-
-https://github.com/user-attachments/assets/6aa5f55a-09d8-4bc0-bd96-00a75ed593ff
-
-
----
+<img src="./DemoVideos/DemoThirdPerson.gif" alt="Third Person Gameplay" width="800">
 
 ##  Features
 
