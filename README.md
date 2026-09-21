@@ -6,29 +6,24 @@
 
 ---
 
-## 🎮 Gameplay
+##  Gameplay
 
 You control a fully maneuverable **combat drone pawn** in a neon-lit cyberpunk environment. Enemy drones spawn in waves, each armed with energy blasters. Survive the onslaught, collect health pickups, and take down the **Boss Drone** to win.
+Options to play both in Third Person or First Person are available. 
 
-### 📹 Gameplay Demo
+###  Gameplay Demo
 
-<!-- VIDEO 1: Replace the link below with your gameplay video URL -->
-<!-- Example: https://github.com/user-attachments/assets/your-video-id -->
 
-https://github.com/user-attachments/assets/VIDEO_1_PLACEHOLDER
 
----
-
-### ⚔️ Combat & Boss Fight
-
-<!-- VIDEO 2: Replace the link below with your boss fight / combat video URL -->
-<!-- Example: https://github.com/user-attachments/assets/your-video-id -->
-
-https://github.com/user-attachments/assets/VIDEO_2_PLACEHOLDER
 
 ---
 
-## ✨ Features
+###  Combat & Boss Fight
+
+
+---
+
+##  Features
 
 | Feature | Description |
 |---------|-------------|
@@ -46,7 +41,7 @@ https://github.com/user-attachments/assets/VIDEO_2_PLACEHOLDER
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 ```
 Content/
@@ -89,7 +84,7 @@ Content/
 
 ---
 
-## 🎯 Controls
+##  Controls
 
 | Action | Input |
 |--------|-------|
@@ -102,7 +97,7 @@ Content/
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | | |
 |---|---|
@@ -116,7 +111,7 @@ Content/
 
 ---
 
-## 🎵 Soundtrack
+##  Soundtrack
 
 All sound effects used in this project were sourced from Pixabay and are free to use under the Pixabay Content License. No ownership of the original audio assets is claimed.
 
@@ -129,7 +124,26 @@ All sound effects used in this project were sourced from Pixabay and are free to
 
 ---
 
-## 📜 License
+## Under Development
+
+This project is actively being improved as a learning-focused game development project.
+
+Planned and ongoing improvements include:
+
+Improved HUD with additional gameplay information and features
+
+Start Screen & Settings UI with improved navigation and presentation
+
+Improved Enemy Behaviour with more responsive and engaging AI
+
+Continued improvements to gameplay mechanics, systems, and overall polish
+
+Most of the future development on this project will be focused on learning and experimentation rather than preparing it for commercial publishing. The project will continue to evolve mechanically as I learn and implement new game-development concepts.
+
+This is an improvised learning project inspired by Stephen Ulibarri's tutorials, with additional systems, modifications, and experimentation implemented along the way to deepen my understanding of Unreal Engine and game development.
+
+
+##  License
 
 This project is for educational and portfolio purposes.  
 Third-party assets were sourced from fab (CyberpunkIndustries, NW_MuzzleFX, SimpleDamageText, CrosshairFreePack) are subject to their respective licenses.
