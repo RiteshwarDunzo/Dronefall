@@ -21,7 +21,7 @@ Options to play both in Third Person or First Person are available.
 
 ### First Person Gameplay
 
-![First Person Demo](./DemoVideos/DemoFirstPirson.gif)
+![First Person Demo](./DemoVideos/DemoFirstPerson.gif)
 
 ### Third Person Gameplay
 
