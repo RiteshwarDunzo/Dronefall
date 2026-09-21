@@ -115,8 +115,8 @@ Content/
 
 All sound effects used in this project were sourced from Pixabay and are free to use under the Pixabay Content License. No ownership of the original audio assets is claimed.
 
-| Track | 
-|-------|------|
+# Tracks-
+
 | `leberch-cyberpunk` | Ambient cyberpunk groove |
 
 | `monume-cyberpunk-music` | Atmospheric level BGM |
