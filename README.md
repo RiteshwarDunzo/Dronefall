@@ -11,28 +11,23 @@
 You control a fully maneuverable **combat drone pawn** in a neon-lit cyberpunk environment. Enemy drones spawn in waves, each armed with energy blasters. Survive the onslaught, collect health pickups, and take down the **Boss Drone** to win.
 Options to play both in Third Person or First Person are available. 
 
-### 📹 Gameplay Demo
+### Gameplay Demo
 
-<table>
-<tr>
-<th>First Person</th>
-<th>Third Person</th>
-</tr>
-<tr>
-<td>
-<img src="https://raw.githubusercontent.com/RiteshwarDunzo/Dronefall/main/DemoVideos/DemoFirstPerson.gif" alt="First Person Gameplay" width="400">
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/RiteshwarDunzo/Dronefall/main/DemoVideos/DemoThirdPerson.gif" alt="Third Person Gameplay" width="400">
-</td>
-</tr>
-</table>
 
-### ⚔️ Boss Fight
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/RiteshwarDunzo/Dronefall/main/DemoVideos/DemoBoss.gif" alt="Boss Fight Gameplay" width="600">
-</p>
+
+### First Person Gameplay
+
+![First Person Gameplay](./DemoVideos/DemoFirstPerson.gif)
+
+### Third Person Gameplay
+
+![Third Person Gameplay](./DemoVideos/DemoThirdPerson.gif)
+
+
+###  Boss Fight
+
+![Boss Combat](./DemoVideos/DemoBoss.gif)
 
 ##  Features
 
