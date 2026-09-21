@@ -13,6 +13,15 @@ Options to play both in Third Person or First Person are available.
 
 ###  Gameplay Demo
 
+First Person
+https://github.com/user-attachments/assets/ca165d20-02a5-407b-8232-d06a5ff6e3f7
+
+
+
+
+
+Third Person
+https://github.com/user-attachments/assets/3292c8e7-0f80-4efe-942f-109f647907d5
 
 
 
@@ -20,6 +29,7 @@ Options to play both in Third Person or First Person are available.
 
 ###  Combat & Boss Fight
 
+https://github.com/user-attachments/assets/0c19db46-fb87-4033-bb74-be08614a279a
 
 ---
 
