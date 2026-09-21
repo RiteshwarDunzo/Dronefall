@@ -116,45 +116,11 @@ Content/
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- [Unreal Engine 5.8](https://www.unrealengine.com/) installed via the Epic Games Launcher
-
-### Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Dronefall.git
-   ```
-
-2. **Open the project**
-   - Launch Unreal Engine 5.8
-   - Open `Dronefall.uproject`
-
-3. **Play**
-   - Open `Content/Maps/Botlevel` 
-   - Hit **Play** (Alt+P)
-
----
-
-## 📁 Key Blueprints
-
-| Blueprint | Role |
-|-----------|------|
-| `BP_DronePawn` | The player. Handles movement, camera, firing, health, and input. |
-| `BP_Drone` | Enemy drone. AI-driven with energy rifle attacks. |
-| `BP_DroneBoss` | Boss encounter. Larger mesh, boss beam, tougher to kill. |
-| `BP_DroneSpawner` | Places waves of enemy drones into the arena. |
-| `BP_DronefallGameMode` | Sets the default pawn, HUD, and game rules. |
-| `BI_Damageable` | Interface that standardizes damage messaging across actors. |
-
----
-
 ## 🎵 Soundtrack
 
-| Track | Vibe |
+All sound effects used in this project were sourced from Pixabay and are free to use under the Pixabay Content License. No ownership of the original audio assets is claimed.
+
+| Track | 
 |-------|------|
 | `leberch-cyberpunk` | Ambient cyberpunk groove |
 | `monume-cyberpunk-music` | Atmospheric level BGM |
@@ -166,10 +132,7 @@ Content/
 ## 📜 License
 
 This project is for educational and portfolio purposes.  
-Third-party assets (CyberpunkIndustries, NW_MuzzleFX, SimpleDamageText, CrosshairFreePack) are subject to their respective licenses.
+Third-party assets were sourced from fab (CyberpunkIndustries, NW_MuzzleFX, SimpleDamageText, CrosshairFreePack) are subject to their respective licenses.
 
 ---
 
-<p align="center">
-  Built with 💜 in Unreal Engine 5.8
-</p>
