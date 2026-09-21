@@ -118,9 +118,13 @@ All sound effects used in this project were sourced from Pixabay and are free to
 | Track | 
 |-------|------|
 | `leberch-cyberpunk` | Ambient cyberpunk groove |
+
 | `monume-cyberpunk-music` | Atmospheric level BGM |
+
 | `prettyjohn1-suspense-cyberpunk` | Tension & suspense |
+
 | `kulakovka-hard-cyberpunk` | Hard-hitting boss fight music |
+
 
 ---
 
