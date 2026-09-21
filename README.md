@@ -132,15 +132,15 @@ All sound effects used in this project were sourced from Pixabay and are free to
 
 This project is actively being improved as a learning-focused game development project.
 
-Planned and ongoing improvements include:
+Planned and ongoing improvements include:-
 
-Improved HUD with additional gameplay information and features
+Improved HUD with additional gameplay information and features.
 
-Start Screen & Settings UI with improved navigation and presentation
+Start Screen & Settings UI with improved navigation and presentation.
 
-Improved Enemy Behaviour with more responsive and engaging AI
+Improved Enemy Behaviour with more responsive and engaging AI.
 
-Continued improvements to gameplay mechanics, systems, and overall polish
+Continued improvements to gameplay mechanics, systems, and overall polish.
 
 Most of the future development on this project will be focused on learning and experimentation rather than preparing it for commercial publishing. The project will continue to evolve mechanically as I learn and implement new game-development concepts.
 
