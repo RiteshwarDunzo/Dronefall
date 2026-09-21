@@ -1,34 +1,29 @@
-# 🛸 DRONEFALL
+## DRONEFALL
 
-### A 3D aerial combat shooter built in Unreal Engine 5.8
+### A 3D aerial combat shooter prototype built in Unreal Engine 5.8
 
 > Pilot your combat drone through a cyberpunk industrial arena. Engage waves of enemy drones, dodge incoming fire, and face off against a powerful boss drone in intense aerial dogfights.
 
 ---
 
-## 🎮 Gameplay
+##  Gameplay
 
 You control a fully maneuverable **combat drone pawn** in a neon-lit cyberpunk environment. Enemy drones spawn in waves, each armed with energy blasters. Survive the onslaught, collect health pickups, and take down the **Boss Drone** to win.
+Options to play both in Third Person or First Person are available. 
 
-### 📹 Gameplay Demo
+###  Gameplay Demo
 
-<!-- VIDEO 1: Replace the link below with your gameplay video URL -->
-<!-- Example: https://github.com/user-attachments/assets/your-video-id -->
 
-https://github.com/user-attachments/assets/VIDEO_1_PLACEHOLDER
 
----
-
-### ⚔️ Combat & Boss Fight
-
-<!-- VIDEO 2: Replace the link below with your boss fight / combat video URL -->
-<!-- Example: https://github.com/user-attachments/assets/your-video-id -->
-
-https://github.com/user-attachments/assets/VIDEO_2_PLACEHOLDER
 
 ---
 
-## ✨ Features
+###  Combat & Boss Fight
+
+
+---
+
+##  Features
 
 | Feature | Description |
 |---------|-------------|
@@ -46,7 +41,7 @@ https://github.com/user-attachments/assets/VIDEO_2_PLACEHOLDER
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 ```
 Content/
@@ -89,19 +84,20 @@ Content/
 
 ---
 
-## 🎯 Controls
+##  Controls
 
 | Action | Input |
 |--------|-------|
 | **Move** | `WASD` / Left Stick |
 | **Look** | Mouse / Right Stick |
 | **Fire** | Left Mouse Button / Right Trigger |
+| **StrafeUp** | Spacebar / Right Bumper |
 
 > Built with Unreal Engine's **Enhanced Input System** — fully rebindable via `IMC_Drone` input mapping context.
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | | |
 |---|---|
@@ -115,60 +111,46 @@ Content/
 
 ---
 
-## 🚀 Getting Started
+##  Soundtrack
 
-### Prerequisites
+All sound effects used in this project were sourced from Pixabay and are free to use under the Pixabay Content License. No ownership of the original audio assets is claimed.
 
-- [Unreal Engine 5.8](https://www.unrealengine.com/) installed via the Epic Games Launcher
+# Tracks-
 
-### Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Dronefall.git
-   ```
-
-2. **Open the project**
-   - Launch Unreal Engine 5.8
-   - Open `Dronefall.uproject`
-
-3. **Play**
-   - Open `Content/Maps/Botlevel` 
-   - Hit **Play** (Alt+P)
-
----
-
-## 📁 Key Blueprints
-
-| Blueprint | Role |
-|-----------|------|
-| `BP_DronePawn` | The player. Handles movement, camera, firing, health, and input. |
-| `BP_Drone` | Enemy drone. AI-driven with energy rifle attacks. |
-| `BP_DroneBoss` | Boss encounter. Larger mesh, boss beam, tougher to kill. |
-| `BP_DroneSpawner` | Places waves of enemy drones into the arena. |
-| `BP_DronefallGameMode` | Sets the default pawn, HUD, and game rules. |
-| `BI_Damageable` | Interface that standardizes damage messaging across actors. |
-
----
-
-## 🎵 Soundtrack
-
-| Track | Vibe |
-|-------|------|
 | `leberch-cyberpunk` | Ambient cyberpunk groove |
+
 | `monume-cyberpunk-music` | Atmospheric level BGM |
+
 | `prettyjohn1-suspense-cyberpunk` | Tension & suspense |
+
 | `kulakovka-hard-cyberpunk` | Hard-hitting boss fight music |
 
+
 ---
 
-## 📜 License
+## Under Development
+
+This project is actively being improved as a learning-focused game development project.
+
+Planned and ongoing improvements include:
+
+Improved HUD with additional gameplay information and features
+
+Start Screen & Settings UI with improved navigation and presentation
+
+Improved Enemy Behaviour with more responsive and engaging AI
+
+Continued improvements to gameplay mechanics, systems, and overall polish
+
+Most of the future development on this project will be focused on learning and experimentation rather than preparing it for commercial publishing. The project will continue to evolve mechanically as I learn and implement new game-development concepts.
+
+This is an improvised learning project inspired by Stephen Ulibarri's tutorials, with additional systems, modifications, and experimentation implemented along the way to deepen my understanding of Unreal Engine and game development.
+
+
+##  License
 
 This project is for educational and portfolio purposes.  
-Third-party assets (CyberpunkIndustries, NW_MuzzleFX, SimpleDamageText, CrosshairFreePack) are subject to their respective licenses.
+Third-party assets were sourced from fab (CyberpunkIndustries, NW_MuzzleFX, SimpleDamageText, CrosshairFreePack) are subject to their respective licenses.
 
 ---
 
-<p align="center">
-  Built with 💜 in Unreal Engine 5.8
-</p>
