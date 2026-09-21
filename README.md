@@ -1,6 +1,6 @@
 # 🛸 DRONEFALL
 
-### A 3D aerial combat shooter built in Unreal Engine 5.8
+### A 3D aerial combat shooter prototype built in Unreal Engine 5.8
 
 > Pilot your combat drone through a cyberpunk industrial arena. Engage waves of enemy drones, dodge incoming fire, and face off against a powerful boss drone in intense aerial dogfights.
 
