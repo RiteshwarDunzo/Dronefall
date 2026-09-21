@@ -20,21 +20,19 @@ Options to play both in Third Person or First Person are available.
 </tr>
 <tr>
 <td>
-
-https://github.com/RiteshwarDunzo/Dronefall/raw/main/DemoVideos/DemoFirstPerson.mp4
-
+<img src="https://raw.githubusercontent.com/RiteshwarDunzo/Dronefall/main/DemoVideos/DemoFirstPerson.gif" alt="First Person Gameplay" width="400">
 </td>
 <td>
-
-https://github.com/RiteshwarDunzo/Dronefall/raw/main/DemoVideos/DemoThirdPerson.mp4
-
+<img src="https://raw.githubusercontent.com/RiteshwarDunzo/Dronefall/main/DemoVideos/DemoThirdPerson.gif" alt="Third Person Gameplay" width="400">
 </td>
 </tr>
 </table>
 
 ### ⚔️ Boss Fight
 
-https://github.com/RiteshwarDunzo/Dronefall/raw/main/DemoVideos/DemoBoss.mp4
+<p align="center">
+<img src="https://raw.githubusercontent.com/RiteshwarDunzo/Dronefall/main/DemoVideos/DemoBoss.gif" alt="Boss Fight Gameplay" width="600">
+</p>
 
 ##  Features
 
