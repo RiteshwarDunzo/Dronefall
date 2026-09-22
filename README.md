@@ -18,7 +18,7 @@ Options to play both in Third Person or First Person are available.
 
 ### First Person Gameplay
 
-![First Person Gameplay](./DemoVideos/DemoFirstPerson.gif)
+<img src="./DemoVideos/DemoFirstPerson.gif" alt="Boss Combat Gameplay" width="800">
 
 
 
@@ -30,7 +30,7 @@ Options to play both in Third Person or First Person are available.
 
 ### Third Person Gameplay
 
-![Third Person Gameplay](./DemoVideos/DemoThirdPerson.gif)
+<img src="./DemoVideos/DemoThirdPerson.gif" alt="Boss Combat Gameplay" width="800">
 
 
 
@@ -48,7 +48,7 @@ Options to play both in Third Person or First Person are available.
 
 ###  Boss Fight
 
-![Boss Combat](./DemoVideos/DemoBoss.gif)
+<img src="./DemoVideos/DemoBoss.gif" alt="Boss Combat Gameplay" width="800">
 
 
 
