@@ -20,14 +20,41 @@ Options to play both in Third Person or First Person are available.
 
 ![First Person Gameplay](./DemoVideos/DemoFirstPerson.gif)
 
+
+
+
+
+
+
+
+
 ### Third Person Gameplay
 
 ![Third Person Gameplay](./DemoVideos/DemoThirdPerson.gif)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###  Boss Fight
 
 ![Boss Combat](./DemoVideos/DemoBoss.gif)
+
+
+
+
+
+
 
 ##  Features
 
