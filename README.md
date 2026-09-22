@@ -183,6 +183,7 @@ This is an improvised learning project inspired by Stephen Ulibarri's tutorials,
 ##  License
 
 This project is for educational and portfolio purposes.  
+
 Third-party assets were sourced from fab (CyberpunkIndustries, NW_MuzzleFX, SimpleDamageText, CrosshairFreePack) are subject to their respective licenses.
 
 ---
